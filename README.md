@@ -1,4 +1,4 @@
-# LLM-Course
+# Hugging Face LLM course — includes my first published model: fine-tuned BERT for sequence classification
 
 Learning Hugging Face LLM Course
 Started course and learnt till Chapter 4 of the course.
