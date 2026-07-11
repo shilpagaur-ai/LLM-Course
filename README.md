@@ -1,7 +1,6 @@
-# Hugging Face LLM course — includes my first published model: fine-tuned BERT for sequence classification
+# LLM Course
 
-Learning Hugging Face LLM Course
-Started course and learnt till Chapter 4 of the course.
+Hugging Face LLM course — includes my first published model: fine-tuned BERT for sequence classificationStarted course and learnt till Chapter 4 of the course.
 Learnt about
 1. Transformers Object of Hugging Face
 2. Learnt HF piplines
