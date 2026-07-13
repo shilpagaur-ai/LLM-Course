@@ -9,4 +9,6 @@ Learnt about
        - Trained on GLUE's MRPC data for classsifying paraphrased sentences
        - Got 83% accuracy
 4. Currently on Chapter 5 of Databases (Repo being updated everyday for each chapter)
+5. Plan to learn 2 Chapters everyday- Datasets LIbrary it is for today
+6. 
    
